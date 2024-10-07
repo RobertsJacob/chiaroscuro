@@ -1,0 +1,58 @@
+{
+    "name": "Chiaroscuro",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "controller": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "sprite-scaling": "*",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24",
+        "darts": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.49",
+        "tag": "v1.12.49",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/8b39eda27ca91b27b57fc1f30c6b3b33d3fc2029",
+        "target": "1.12.56",
+        "pxt": "8.5.60",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#EDC985",
+        "#B59251",
+        "#B9A44C",
+        "#FE9920",
+        "#AF4319",
+        "#E71D36",
+        "#9B3D12",
+        "#823200",
+        "#AE8E1C",
+        "#650D1B",
+        "#362D2B",
+        "#F5853F",
+        "#F2EDEB",
+        "#EEBA0B",
+        "#000000"
+    ]
+}
